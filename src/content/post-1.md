@@ -16,7 +16,7 @@ path: "/blog/example-title"
 
 ###### H6
 
-Paragraph
+Paragraph 2
 
 ---
 
